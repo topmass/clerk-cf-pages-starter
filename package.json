@@ -11,8 +11,10 @@
 		"deploy": "npm run build && wrangler pages deploy ./dist"
 	},
 	"dependencies": {
+		"@clerk/clerk-react": "^5.22.13",
 		"react": "^18.3.1",
-		"react-dom": "^18.3.1"
+		"react-dom": "^18.3.1",
+		"react-router-dom": "^7.1.5"
 	},
 	"devDependencies": {
 		"@cloudflare/workers-types": "^4.20250204.0",
