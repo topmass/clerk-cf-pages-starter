@@ -1,4 +1,4 @@
-# React + TypeScript + Vite + Clerk Auth on Cloudflare Pages and workers
+# React TypeScript Starter with Clerk Auth on Cloudflare Pages
 
 This template provides a minimal setup to deploy a React app with Clerk Auth preconfigured on Cloudflare Pages and workers.
 
@@ -36,4 +36,12 @@ Run npm run dev
 Step 6.
 
 Create your first user.
+
+Step 7.
+
+npm run build
+
+Step 8.
+
+npm run deploy / wrangler pages deploy
 
